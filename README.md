@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚧 I'm currently working on<br><br>A FastAPI web app and an AI that plays Flappy Bird.<br><br>🤝 I'm looking to collaborate on<br><br>AI, open-source, and fun web projects.<br><br>💛 I'm looking for help with<br><br>CI/CD setup and optimizing ML models.<br><br>🧪 I'm currently learning<br><br>TensorFlow, Docker, and Rag.<br><br>💬 Ask me about<br><br>FastAPI, Python scripts, or C++ for CP.<br><br>⚡ Fun fact<br><br>Once debugged 6 hours for a missing semicolon 😅
+👋 I'm Raman Chaudhary, a passionate developer from India exploring the worlds of machine learning, web development, and competitive programming. I build real-world AI projects using PyTorch and FastAPI, enjoy solving DSA problems in C++, and love participating in hackathons. Whether it's crafting intelligent apps, automating workflows, or experimenting with new tools, I'm always learning. I believe in building things that matter — and having fun while doing it. 🚀
 
 
 ## 🌐 Socials:
