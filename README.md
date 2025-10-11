@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Raman Chaudhary, a passionate developer from India exploring the worlds of machine learning, web development, and competitive programming. I build real-world AI projects using PyTorch and FastAPI, enjoy solving DSA problems in C++, and love participating in hackathons. Whether it's crafting intelligent apps, automating workflows, or experimenting with new tools, I'm always learning. I believe in building things that matter — and having fun while doing it. 🚀
+👋 I'm BlackSwan, a passionate developer from India exploring the worlds of machine learning, web development, and competitive programming. I build real-world AI projects using PyTorch and FastAPI, enjoy solving DSA problems in C++, and love participating in hackathons. Whether it's crafting intelligent apps, automating workflows, or experimenting with new tools, I'm always learning. I believe in building things that matter — and having fun while doing it. 🚀
 
 
 ## 🌐 Socials:
