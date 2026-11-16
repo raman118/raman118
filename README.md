@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=220&section=header&text=Raman Chaudhary&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Learning%20in%20public%20%E2%80%A2%20Building%20with%20curiosity%20%E2%80%A2%20Growing%20through%20open%20source&descAlignY=59&descSize=16" alt="BlackSwan banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=220&section=header&text=BLACKSWAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Learning%20in%20public%20%E2%80%A2%20Building%20with%20curiosity%20%E2%80%A2%20Growing%20through%20open%20source&descAlignY=59&descSize=16" alt="BlackSwan banner" width="100%" />
 
-### Hey, I'm BlackSwan 👋
+### Hey, I'm Raman Chaudhary 👋
 
 **Final-year B.Tech student · Mathematics & Computing · IIT (BHU), Varanasi**
 
